@@ -8,14 +8,10 @@
 ### 📚 Мой технологический стек
 
 **Frontend (основное направление):**  
-<a href="https://skillicons.dev">
-  <img src="skillicons.dev" alt="Frontend Стек" />
-</a>
+[![Frontend Стек](https://skillicons.dev)](https://skillicons.dev)
 
 **Также имею опыт работы с:**  
-<a href="https://skillicons.dev">
-  <img src="skillicons.dev" alt="Дополнительный Стек" />
-</a>
+[![Дополнительный Стек](https://skillicons.dev)](https://skillicons.dev)
 
 ---
 
@@ -28,12 +24,8 @@
 
 ### 📫 Связаться со мной
 
-<a href="t.me">
-  <img src="shields.io" alt="Telegram" height="35"/>
-</a>
-<a href="mailto:iskamnev@edu.hse.ru">
-  <img src="shields.io" alt="Email" height="35"/>
-</a>
+[![Telegram](https://shields.io)](https://t.me)
+[![Email](https://shields.io)](mailto:iskamnev@edu.hse.ru)
 
 ---
 <p align="center">
