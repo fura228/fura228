@@ -7,17 +7,12 @@
 
 ### 📚 Мой технологический стек
 
+**Frontend (основное направление):**  
+<img src="shields.io" alt="HTML5" height="25"/> <img src="shields.io" alt="CSS3" height="25"/> <img src="shields.io" alt="JavaScript" height="25"/> <img src="shields.io" alt="React" height="25"/>
 
-**Frontend (основное направление):**
-![HTML5](shields.io)
-![CSS3](shields.io)
-![JavaScript](shields.io)
-![React](shields.io)
+**Также имею опыт работы с:**  
+<img src="shields.io" alt="C#" height="25"/> <img src="shields.io" alt="Unity" height="25"/> <img src="shields.io" alt="Python" height="25"/>
 
-**Также имею опыт работы с:**
-![C#](shields.io)
-![Unity](shields.io)
-![Python](shields.io)
 
 
 ---
