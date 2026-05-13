@@ -7,16 +7,18 @@
 
 ### 📚 Мой технологический стек
 
+
 **Frontend (основное направление):**
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
+![HTML5](shields.io)
+![CSS3](shields.io)
+![JavaScript](shields.io)
+![React](shields.io)
 
 **Также имею опыт работы с:**
-![C#](https://shields.io)
-![Unity](https://shields.io)
-![Python](https://shields.io)
+![C#](shields.io)
+![Unity](shields.io)
+![Python](shields.io)
+
 
 ---
 
